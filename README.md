@@ -1,2 +1,2 @@
 # sarkopenAI
-U-net to segment and calculate CT in sarcopenic patients
+U-net to segment CT images and calculate areas in sarcopenic patients
