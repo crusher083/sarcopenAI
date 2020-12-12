@@ -1,2 +1,2 @@
 # sarkopenAI
-U-net to segment CT images and calculate areas in sarcopenic patients
+Convolutional Neural Network (U-net) to segment single slice CT images and calculate areas for sarcopenia evaluation. 
